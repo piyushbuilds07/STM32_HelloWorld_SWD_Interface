@@ -12,3 +12,6 @@ This project was built using an **Empty** STM32CubeIDE project. It bypasses phys
 | Peripheral | STM32 Pin | Description |
 | :--- | :--- | :--- |
 | SWO (Trace) | **PB3** | Serial Wire Output for ITM trace data |
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-10-03 at 11 26 04 AM" src="https://github.com/user-attachments/assets/4523a3b8-357b-40be-8308-c5cf9639ec39" />
+
