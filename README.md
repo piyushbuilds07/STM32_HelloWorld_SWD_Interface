@@ -1,8 +1,8 @@
 # STM32 Bare-Metal LED Blink (NUCLEO-L452RE)
 
-A bare-metal (register-level) C application designed to blink the on-board user LED (LD2) on the STM32 NUCLEO-L452RE development board. 
+A pure, register-level C application written from scratch to blink the on-board user LED (LD2) on the STM32 NUCLEO-L452RE development board. 
 
-This project intentionally avoids using STM32CubeMX generated HAL code, demonstrating how to control STM32L4 peripherals by writing directly to hardware registers.
+This project was built using an **Empty** STM32CubeIDE project. It uses **zero** HAL drivers, zero LL drivers, and zero auto-generated code. Every hardware interaction is done by writing directly to memory-mapped registers.
 
 ## Hardware Requirements
 *   **Board:** STM32 NUCLEO-L452RE (STM32L452RET6U ARM Cortex-M4)
