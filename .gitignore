@@ -1,0 +1,12 @@
+Debug/
+Release/
+.settings/
+.cproject
+.project
+.mxproject
+*.launch
+*.o
+*.elf
+*.bin
+*.hex
+*.map
